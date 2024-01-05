@@ -134,3 +134,16 @@ ls
 git push origin master
 git add .
 git init
+ls
+cd india
+ls
+cd ..
+ls
+git init
+git config user.name "nishi"
+git config user.email "nishi@gmail.com"
+git add india
+git add .
+git commit -m "added files"
+git remote add origin https://github.com/nishikanta01/linux_task1.git
+git push origin master
